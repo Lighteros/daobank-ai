@@ -598,8 +598,8 @@
           blurHeight: 0,
         };
       let D = [
-          { img: T, alt: "Twitter", link: "https://twitter.com/taobnk" },
-          { img: E, alt: "Telegram", link: "https://t.me/taobnk" },
+          { img: T, alt: "Twitter", link: "https://twitter.com/DaoBank_AI_Erc20" },
+          { img: E, alt: "Telegram", link: "https://t.me/DaoBank_AI_Erc20" },
           { img: _, alt: "Gitbook", link: "https://sorojins-organization.gitbook.io/daobank-ai" },
         ],
         S = [
@@ -746,8 +746,8 @@
           blurHeight: 3,
         };
       let C = [
-        { img: T, alt: "Twitter", link: "https://twitter.com/taobnk" },
-        { img: E, alt: "Telegram", link: "https://t.me/taobnk" },
+        { img: T, alt: "Twitter", link: "https://twitter.com/DaoBank_AI_Erc20" },
+        { img: E, alt: "Telegram", link: "https://t.me/DaoBank_AI_Erc20" },
         { img: _, alt: "Gitbook", link: "https://sorojins-organization.gitbook.io/daobank-ai" },
       ];
       var O = () => {
