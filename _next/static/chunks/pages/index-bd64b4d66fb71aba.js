@@ -604,11 +604,8 @@
         ],
         S = [
           { title: "Docs", link: "https://sorojins-organization.gitbook.io/daobank-ai" },
-          { title: "Stake", link: "https://daobank-ai-org-app.vercel.app/staking" },
-          { title: "Borrow", link: "#" },
-          { title: "Supply", link: "#" },
-          { title: "Vote", link: "#" },
-          { title: "Farm", link: "#" },
+          { title: "Product", link: "https://daobank-ai-org-app.vercel.app/" },
+          { title: "Stake", link: "https://daobank-ai-org-app.vercel.app/staking/wtao" },
         ];
       var U = () =>
           (0, i.jsxs)("div", {
@@ -678,7 +675,7 @@
                     children: [
                       (0, i.jsx)("p", {
                         className: "text-sm text-[#BAF7E9A6]",
-                        children: "Copyright 2024 @DaoBank",
+                        children: "Copyright 2025 @DaoBank",
                       }),
                       (0, i.jsxs)("div", {
                         className: "flex flex-row items-center gap-8",
@@ -687,11 +684,6 @@
                             className:
                               "flex items-center gap-4 md:pb-5 md:border-b md:border-border md:mb-5 md:justify-center",
                             children: [
-                              (0, i.jsx)(n(), {
-                                href: "mailto:info@DaoBank.ai",
-                                className: "text-sm text-[#BAF7E9A6] underline",
-                                children: "info@DaoBank.ai",
-                              }),
                               (0, i.jsx)("div", {
                                 className: "w-px h-8 bg-[#3FEAC11A]",
                               }),
@@ -1177,7 +1169,7 @@
       a(7634), a(7613);
       let Q = [
         {
-          title: "Feb",
+          title: "Oct",
           year: "2024",
           date: new Date(2024, 2, 1),
           list: [
@@ -1190,7 +1182,7 @@
           ],
         },
         {
-          title: "Mar",
+          title: "Oct",
           year: "2024",
           date: new Date(2024, 3, 1),
           list: [
@@ -1208,7 +1200,7 @@
           ],
         },
         {
-          title: "April & May",
+          title: "Oct",
           year: "2024",
           date: new Date(2024, 4, 1),
           list: [
@@ -1220,25 +1212,25 @@
           ],
         },
         {
-          title: "June & July",
+          title: "Nov",
           date: new Date(2024, 6, 1),
           year: "2024",
           list: ["Collateral asset expansion"],
         },
         {
-          title: "Aug",
+          title: "Nov",
           date: new Date(2024, 8, 1),
           year: "2024",
           list: ["1 Billion DBANK", ">1B DBANK revenue distributed"],
         },
         {
-          title: "Sep",
+          title: "Dec",
           date: new Date(2024, 9, 1),
           year: "2024",
           list: ["Crosschain Lending & Borrowing"],
         },
         {
-          title: "Nov",
+          title: "Dec",
           date: new Date(2024, 11, 1),
           year: "2024",
           list: ["Arbitrum Shutdown"],
