@@ -111,13 +111,13 @@
                           "flex items-center justify-center gap-3 mb-8",
                         children: [
                           (0, i.jsx)(n(), {
-                            href: "https://daobank-ai-org-app.vercel.app/",
+                            href: "https://app.daobankai.cc/",
                             className: "btn",
                             target: "_blank",
                             children: "Go to Dapp",
                           }),
                           (0, i.jsx)(n(), {
-                            href: "https://sorojins-organization.gitbook.io/daobank-ai",
+                            href: "https://docs.daobankai.cc",
                             target: "_blank",
                             className: "btn-secondary",
                             children: "Documentation",
@@ -281,7 +281,7 @@
               "DaoBank is a decentralized borrowing protocol that allows you to draw interest-free loans against $wDAO used as collateral. Loans are facilitated in $daoUSD (a low-volatility stablecoin soft-pegged to the US dollar) and need to maintain an overcollateralized ratio. DaoBank as a protocol is non-custodial, immutable, and governance-free. Learn more in our",
               " ",
               (0, i.jsx)("a", {
-                href: "https://sorojins-organization.gitbook.io/daobank-ai",
+                href: "https://docs.daobankai.cc",
                 target: "_blank",
                 className: "underline",
                 children: "documentation",
@@ -336,7 +336,7 @@
               "Feel free to refer to the",
               " ",
               (0, i.jsx)("a", {
-                href: "https://sorojins-organization.gitbook.io/daobank-ai",
+                href: "https://docs.daobankai.cc",
                 target: "_blank",
                 className: "underline",
                 children: "documentation",
@@ -397,7 +397,7 @@
                                 "Feel free to refer to the",
                                 " ",
                                 (0, i.jsx)(n(), {
-                                  href: "https://sorojins-organization.gitbook.io/daobank-ai",
+                                  href: "https://docs.daobankai.cc",
                                   target: "_blank",
                                   className:
                                     "underline inline-block bg-clip-padding transition-all",
@@ -408,7 +408,7 @@
                               ],
                             }),
                             (0, i.jsx)(n(), {
-                              href: "https://sorojins-organization.gitbook.io/daobank-ai",
+                              href: "https://docs.daobankai.cc",
                               className: "btn-secondary",
                               target: "_blank",
                               children: "Documentation",
@@ -600,12 +600,12 @@
       let D = [
           { img: T, alt: "Twitter", link: "https://twitter.com/DaoBank_AI_Eth" },
           { img: E, alt: "Telegram", link: "https://t.me/DaoBank_AI_Eth" },
-          { img: _, alt: "Gitbook", link: "https://sorojins-organization.gitbook.io/daobank-ai" },
+          { img: _, alt: "Gitbook", link: "https://docs.daobankai.cc" },
         ],
         S = [
-          { title: "Docs", link: "https://sorojins-organization.gitbook.io/daobank-ai" },
-          { title: "Product", link: "https://daobank-ai-org-app.vercel.app/" },
-          { title: "Stake", link: "https://daobank-ai-org-app.vercel.app/staking/wtao" },
+          { title: "Docs", link: "https://docs.daobankai.cc" },
+          { title: "Product", link: "https://app.daobankai.cc/" },
+          { title: "Stake", link: "https://app.daobankai.cc/" },
         ];
       var U = () =>
           (0, i.jsxs)("div", {
@@ -637,7 +637,7 @@
                             children: "Unlock the Full Power of Your DAO",
                           }),
                           (0, i.jsx)(n(), {
-                            href: "https://daobank-ai-org-app.vercel.app/",
+                            href: "https://app.daobankai.cc/",
                             target: "_blank",
                             className: "btn",
                             children: "Go to Dapp",
@@ -748,7 +748,7 @@
       let C = [
         { img: T, alt: "Twitter", link: "https://twitter.com/DaoBank_AI_Eth" },
         { img: E, alt: "Telegram", link: "https://t.me/DaoBank_AI_Eth" },
-        { img: _, alt: "Gitbook", link: "https://sorojins-organization.gitbook.io/daobank-ai" },
+        { img: _, alt: "Gitbook", link: "https://docs.daobankai.cc" },
       ];
       var O = () => {
           let [e, t] = (0, p.useState)(!1);
@@ -819,7 +819,7 @@
                       }),
                       (0, i.jsx)(n(), {
                         className: "btn md:hidden",
-                        href: "https://daobank-ai-org-app.vercel.app/",
+                        href: "https://app.daobankai.cc/",
                         target: "_blank",
                         children: "Go to Dapp",
                       }),
@@ -1009,7 +1009,7 @@
                       children: "Borrow $daoUSD using your $DAO as collateral",
                     }),
                     (0, i.jsx)(n(), {
-                      href: "https://daobank-ai-org-app.vercel.app/",
+                      href: "https://app.daobankai.cc/",
                       className: "btn",
                       target: "_blank",
                       children: "Go to Dapp",
