@@ -111,10 +111,10 @@
                           "flex items-center justify-center gap-3 mb-8",
                         children: [
                           (0, i.jsx)(n(), {
-                            href: "https://app.daobankai.cc/",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x13aF99df3eeb0B64A68Ed13164bD23408cDd27a3",
                             className: "btn",
                             target: "_blank",
-                            children: "Go to Dapp",
+                            children: "Buy Now",
                           }),
                           (0, i.jsx)(n(), {
                             href: "https://docs.daobankai.cc",
