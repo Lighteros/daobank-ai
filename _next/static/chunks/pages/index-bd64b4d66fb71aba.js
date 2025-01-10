@@ -1169,8 +1169,8 @@
       a(7634), a(7613);
       let Q = [
         {
-          title: "Oct",
-          year: "2024",
+          title: "Jan",
+          year: "2025",
           date: new Date(2024, 2, 1),
           list: [
             (0, i.jsx)("div", {
@@ -1182,8 +1182,8 @@
           ],
         },
         {
-          title: "Oct",
-          year: "2024",
+          title: "Jan",
+          year: "2025",
           date: new Date(2024, 3, 1),
           list: [
             "Chainlink integration / Proprietary Oracle",
@@ -1200,8 +1200,8 @@
           ],
         },
         {
-          title: "Oct",
-          year: "2024",
+          title: "Jan",
+          year: "2025",
           date: new Date(2024, 4, 1),
           list: [
             "Partnerships - Bittensor community",
@@ -1212,43 +1212,43 @@
           ],
         },
         {
-          title: "Nov",
+          title: "Feb",
           date: new Date(2024, 6, 1),
-          year: "2024",
+          year: "2025",
           list: ["Collateral asset expansion"],
         },
         {
-          title: "Nov",
+          title: "Feb",
           date: new Date(2024, 8, 1),
-          year: "2024",
+          year: "2025",
           list: ["1 Billion DBANK", ">1B DBANK revenue distributed"],
         },
         {
-          title: "Dec",
+          title: "Mar",
           date: new Date(2024, 9, 1),
-          year: "2024",
+          year: "2025",
           list: ["Crosschain Lending & Borrowing"],
         },
         {
-          title: "Dec",
+          title: "Mar",
           date: new Date(2024, 11, 1),
-          year: "2024",
+          year: "2025",
           list: ["Arbitrum Shutdown"],
         },
         {
-          title: "Dec",
+          title: "Mar",
           date: new Date(2024, 12, 1),
-          year: "2024",
+          year: "2025",
           list: ["Protocol approval from Bittensor"],
         },
         {
-          title: "Jan",
+          title: "Apr",
           date: new Date(2025, 1, 1),
           year: "2025",
           list: ["DaoBank on Subtensor (Bittensor Testnet)"],
         },
         {
-          title: "Feb",
+          title: "May",
           date: new Date(2025, 2, 1),
           year: "2025",
           list: ["DaoBank on Finney"],
