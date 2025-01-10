@@ -711,16 +711,6 @@
                               }),
                             ],
                           }),
-                          (0, i.jsx)(n(), {
-                            href: "https://chain.link/badge",
-                            target: "_blank",
-                            children: (0, i.jsx)(l(), {
-                              src: F,
-                              alt: "market data secured with chainlink",
-                              width: 150,
-                              height: 20,
-                            }),
-                          }),
                         ],
                       }),
                     ],
